@@ -1,0 +1,1 @@
+<h1>hello {{$name}} your reg no {{$reg}} </h1>
